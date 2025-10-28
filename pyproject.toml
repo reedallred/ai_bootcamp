@@ -22,4 +22,6 @@ dependencies = [
     "instructor>=1.11.3",
     "fastembed>=0.7.3",
     "cohere>=5.18.0",
+    "psycopg2-binary>=2.9.11",
+    "langgraph-checkpoint-postgres>=3.0.0",
 ]
